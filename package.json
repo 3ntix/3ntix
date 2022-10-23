@@ -1,0 +1,14 @@
+{
+  "name": "untitled-folder-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "scss": "sass --watch styles/index.scss styles/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
